@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var inputString = MakeString(args);
             Console.WriteLine($"Input: {inputString}");
@@ -11,7 +11,7 @@
             Console.WriteLine($"Output: {reveresString}");
         }
 
-        static string MakeString(string[] array)
+        private static string MakeString(string[] array)
         {
             var result = "";
             foreach (var word in array)
@@ -21,7 +21,7 @@
             result = result.Trim();
             return result;
         }
-        static string ReverseString(string str)
+        private static string ReverseString(string str)
         {
             var result = "";
             while (str.Length > 0)
