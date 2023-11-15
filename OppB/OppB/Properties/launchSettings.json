@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OppB": {
+      "commandName": "Project",
+      "commandLineArgs": "Terje test"
+    }
+  }
+}

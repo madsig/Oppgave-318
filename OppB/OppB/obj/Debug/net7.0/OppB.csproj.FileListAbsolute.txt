@@ -1,0 +1,14 @@
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\obj\Debug\net7.0\OppB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\obj\Debug\net7.0\OppB.AssemblyInfoInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\obj\Debug\net7.0\OppB.AssemblyInfo.cs
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\obj\Debug\net7.0\OppB.csproj.CoreCompileInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\bin\Debug\net7.0\OppB.exe
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\bin\Debug\net7.0\OppB.deps.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\bin\Debug\net7.0\OppB.runtimeconfig.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\bin\Debug\net7.0\OppB.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\bin\Debug\net7.0\OppB.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\obj\Debug\net7.0\OppB.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\obj\Debug\net7.0\refint\OppB.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\obj\Debug\net7.0\OppB.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\obj\Debug\net7.0\OppB.genruntimeconfig.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppB\OppB\obj\Debug\net7.0\ref\OppB.dll
