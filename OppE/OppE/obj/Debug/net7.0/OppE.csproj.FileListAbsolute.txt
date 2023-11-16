@@ -1,0 +1,14 @@
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\bin\Debug\net7.0\OppE.exe
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\bin\Debug\net7.0\OppE.deps.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\bin\Debug\net7.0\OppE.runtimeconfig.json
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\bin\Debug\net7.0\OppE.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\bin\Debug\net7.0\OppE.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\obj\Debug\net7.0\OppE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\obj\Debug\net7.0\OppE.AssemblyInfoInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\obj\Debug\net7.0\OppE.AssemblyInfo.cs
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\obj\Debug\net7.0\OppE.csproj.CoreCompileInputs.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\obj\Debug\net7.0\OppE.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\obj\Debug\net7.0\refint\OppE.dll
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\obj\Debug\net7.0\OppE.pdb
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\obj\Debug\net7.0\OppE.genruntimeconfig.cache
+C:\Users\MadsI\Documents\Koding\GetAcademy\Emne 3\2023.11.15 - Oppgave 318\OppE\OppE\obj\Debug\net7.0\ref\OppE.dll
